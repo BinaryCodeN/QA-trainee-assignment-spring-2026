@@ -13,7 +13,7 @@ P0 - не открывается объявление из выдачи.
 
 ---
 
-![Рисунок 1 - Картинка с багами](https://github.com/BinaryCodeN/QA-trainee-assignment-spring-2026/blob/main/Задание1/Картинки/bags.png)
+![Рисунок 1 - Картинка с багами](https://github.com/BinaryCodeN/QA-trainee-assignment-spring-2026/blob/main/Задание1/Картинки/bаgs.png)
 
 ## P0 - критический
 
